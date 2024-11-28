@@ -1,7 +1,7 @@
 # led-control-with-character-device-driver
 
 ## Description
-This is a kernel module which creates a simple character device driver to control a  GPIO in Beaglebone Black
+This is a kernel module which creates a simple character device driver to control a LED in Beaglebone Black
 
 ## Features
 - Design a simple kernel module to control LED and port it on Beaglebone Black. 
